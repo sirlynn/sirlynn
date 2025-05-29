@@ -18,4 +18,4 @@
 ☆ Art <br>
 
 ### ⋆˚꩜｡ Social Media
-☆ [LinkedIn](www.linkedin.com/in/ms-evelyn-wang)
+☆ [LinkedIn]([www.linkedin.com/in/ms-evelyn-wang](https://www.linkedin.com/in/evelyn-wang-435311316/))
