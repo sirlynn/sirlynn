@@ -6,7 +6,7 @@
 
  ### Skills
  - Python <br>
- -Excel <br>
+ - Excel <br>
  - Linux/Unix <br>
  - Regular Expression <br>
  - Javascript <br>
