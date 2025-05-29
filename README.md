@@ -1,8 +1,8 @@
 #Hello
 
 ### My name is Evelyn Wang (she/they)
-☆ University of Maryland | Information Systems | ACES Honors Program
-☆ Expected Graduation 2028
+- University of Maryland | Information Systems | ACES Honors Program <br>
+- Expected Graduation 2028 <br>
 
  ### Skills
  - Python <br>
