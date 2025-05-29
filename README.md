@@ -12,7 +12,7 @@
  - Javascript <br>
  - HTML <br>
 
-  #### ⋆˚꩜｡Likes
+  #### Likes
 - Violin <br>
 - Piano <br>
 - Art <br>
