@@ -6,16 +6,16 @@
 
  ### ⋆˚꩜｡ Skills
  ☆ Python <br>
- ☆ Excel
- ☆ Linux/Unix
- ☆ Regular Expression
- ☆ Javascript
- ☆ HTML
+ ☆ Excel <br>
+ ☆ Linux/Unix <br>
+ ☆ Regular Expression <br>
+ ☆ Javascript <br>
+ ☆ HTML <br>
 
   #### ⋆˚꩜｡Likes
-☆ Violin
-☆ Piano
-☆ Art
+☆ Violin <br>
+☆ Piano <br>
+☆ Art <br>
 
 ### ⋆˚꩜｡ Social Media
 ☆ [LinkedIn](www.linkedin.com/in/ms-evelyn-wang)
