@@ -5,7 +5,7 @@
 ☆ Expected Graduation 2028
 
  ### ⋆˚꩜｡ Skills
- ☆ Python
+ ☆ Python <br>
  ☆ Excel
  ☆ Linux/Unix
  ☆ Regular Expression
