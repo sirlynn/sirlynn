@@ -1,16 +1,21 @@
-## Hi there 👋
+# ⋆｡°✩ Hello ✩°｡⋆
 
-<!--
-**sirlynn/sirlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⋆˚꩜｡ My name is Evelyn Wang (she/they)
+☆ University of Maryland | Information Systems | ACES Honors Program
+☆ Expected Graduation 2028
 
-Here are some ideas to get you started:
+ ### ⋆˚꩜｡ Skills
+ ☆ Python
+ ☆ Excel
+ ☆ Linux/Unix
+ ☆ Regular Expression
+ ☆ Javascript
+ ☆ HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### ⋆˚꩜｡Likes
+☆ Violin
+☆ Piano
+☆ Art
+
+### ⋆˚꩜｡ Social Media
+☆ [LinkedIn](www.linkedin.com/in/ms-evelyn-wang)
